@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="TVN" group-title="Chile",TVN
+https://mdstrm.com/live-stream-playlist/63ea1f6d8aa1a4000824f7b.m3u8
+
+#EXTINF:-1 tvg-name="24 Horas" group-title="Chile",24 Horas
+https://mdstrm.com/live-stream-playlist/63ea1f6d8aa1a4000824f7b.m3u8
