@@ -33,6 +33,14 @@ https://unlimited1-cl-isp.dps.live/supersonikatv/supersonikatv.smil/playlist.m3u
 #EXTINF:-1 group-title="TV Chilena",T-Vinet
 https://unlimited1-cl-isp.dps.live/inet2/inet2.smil/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 group-title="TV Chilena",TV Chile
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
+
+#EXTINF:-1 group-title="TV Chilena",TVN3
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
+
+#EXTINF:-1 group-title="TV Chilena",Mediabanco
+https://scl.edge.grupoz.cl/mediabanco_prueba/live/playlist.m3u8
 #EXTINF:-1 group-title="TV Chilena",GyC TV
 https://tv.arkeo.cl:19360/8158/8158.m3u8?PlaylistM3UCL
 
